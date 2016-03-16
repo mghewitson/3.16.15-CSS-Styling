@@ -1,0 +1,23 @@
+#images li {
+  list-style: none;
+  display:inline;
+  float: left;
+  padding:0;
+}
+
+#images li img{
+  width: 450px;
+  height: 500px;
+  display: block;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 50px;
+  font-weight: bolder;
+  
+}
